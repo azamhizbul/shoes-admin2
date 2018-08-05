@@ -62,7 +62,7 @@ $autoload['packages'] = array();
 // $autoload['libraries'] = array();
 
 
-$autoload['libraries'] = array('database', 'session', 'dompdf_gen', 'EscPos', 'form_validation');
+$autoload['libraries'] = array('database', 'session', 'EscPos', 'form_validation');
 
 
 /*
