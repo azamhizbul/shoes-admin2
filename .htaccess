@@ -1,6 +1,6 @@
 <IfModule mod_rewrite.c>
 RewriteEngine On
-RewriteBase /
+RewriteBase /http://shoes-admin2-shoes-admin2.193b.starter-ca-central-1.openshiftapps.com/
 
 #Removes access to the system folder by users.
 #Additionally this will allow you to create a System.php controller,
