@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'db_sepatu',
+	'hostname' => 'sql12.freemysqlhosting.net:3306',
+	'username' => 'sql12250633',
+	'password' => 'eHRxx9G3DG',
+	'database' => 'sql12250633',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
