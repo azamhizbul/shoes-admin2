@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/shoes-admin2/';
+$config['base_url'] = 'http://shoes-admin2-shoes-admin2.193b.starter-ca-central-1.openshiftapps.com/';
 
 /*
 |--------------------------------------------------------------------------
