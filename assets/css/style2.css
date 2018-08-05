@@ -1,0 +1,37 @@
+.info-box-4{
+	height: 100px;
+}
+
+.info-box-4 .icon{
+	bottom: 16px;
+}
+
+.cs-rm-margin-btn{
+	margin-bottom: 0px;
+}
+.cs-rm-margin-top{
+	margin-top: 0px;
+}
+.cs-margin-bottom-20{
+	margin-bottom: 20px;
+}
+.cs-header-tambah-barang{
+	
+	padding-bottom: 25px !important;
+}
+.cs-btn-tambah-barang-r{
+	float: right;
+	margin-top: -20px;
+}
+.cs-table-xflow{
+	overflow-x: hidden; 
+}
+.cs-margin-notif{
+	margin-top: 10px;
+}
+.cs-margin-top-tahun{
+	margin-top: 85px;
+}
+.cs-margin-top-7{
+	margin-top: 7px !important;
+}
